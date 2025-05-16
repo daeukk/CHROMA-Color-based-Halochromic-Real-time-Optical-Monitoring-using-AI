@@ -16,6 +16,6 @@ The app features three main screens: (1) Home screen, (2) Prediction results scr
 During validation, the model achieved a coefficient of determination (R²) of 0.9696, as shown below.
 ![Diagram](assets/fig2.png)
 
-Part of the thesis entitled: "Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring"
-Part of the government-funded project: "SMIDERM: Smart Multifunctional and Indigenous Dressings sterilized using the Electron Beam as Novel wound Repair Matrices"
+Part of the thesis entitled: "Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring"<br>
+Part of the government-funded project: "SMIDERM: Smart Multifunctional and Indigenous Dressings sterilized using the Electron Beam as Novel wound Repair Matrices"<br>
 Funded by: Department of Science and Technology-Philippine Council for Health Research and Development (DOST-PCHRD)
