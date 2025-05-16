@@ -10,7 +10,7 @@ Main functions include:
 - Local data storage (SQLite)
 - Data export (into an Excel file)
 
-The app features three main screens: (1) Home screen, (2) Prediction results screen, and (3) Data visualization
+The app features three main screens: (1) Home screen, (2) Prediction results screen, and (3) Data visualization.
 ![Diagram](assets/fig.png)
 
 During validation, the model achieved a coefficient of determination (R²) of 0.9696, as shown below.
