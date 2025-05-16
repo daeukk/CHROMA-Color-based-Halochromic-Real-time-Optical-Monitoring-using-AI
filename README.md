@@ -13,7 +13,7 @@ Main functions include:
 The app features three main screens: (1) Home screen, (2) Prediction results screen, and (3) Data visualization
 ![Diagram](assets/fig.png)
 
-During the validation, it showed R² = 0.9696 as shown below:
+During validation, the model achieved a coefficient of determination (R²) of 0.9696, as shown below.
 ![Diagram](assets/fig2.png)
 
 Part of the thesis entitled: "Development of a Non-invasive Vision-based Halochromic Sensor System for Chronic Wound Monitoring"
